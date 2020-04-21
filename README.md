@@ -1,7 +1,8 @@
 # InfoPageReplacer
 A VRChat mod based on [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader)
 ### What does this mod do?
-This mod allows you to change the images that appear on the loading screen with any other images**(.jpg .png only)**
+This mod allows you to change the images that appear on the loading screen with any other images **(.jpg .png only)**
+**Working only with latest commit of Il2CppAssemblyUnhollower!**
 ![Preview](https://i.imgur.com/YPLmWlp.jpg)
 ### Where i should place images?
 **VRChatFolder\UserData\InfoPageReplacer**
