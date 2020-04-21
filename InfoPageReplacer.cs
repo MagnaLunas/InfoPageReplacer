@@ -55,8 +55,8 @@ namespace InfoPageReplacer
             if (needToReplaceInfo)
             {
                 Il2CppSystem.Collections.Generic.List<LoadingInfoData> loadingInfos = loadingPanel.GetComponent<VRCUiPageLoading>().loadingInfoSet.loadingInfos;
-                Time.timeScale = 3;
-                //loadingInfos.Clear(); //For fast debug
+                //Time.timeScale = 3; //For fast debug
+                loadingInfos.Clear();
                 MelonModLogger.Log("Loading files...");
                 for (int i = 0; i < files.Length; i++)
                 {
